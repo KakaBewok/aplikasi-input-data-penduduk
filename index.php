@@ -193,6 +193,7 @@ if(isset($_POST['submit'])){
           </div>
         </div>
       </div>
+      <p class="text-center"><a href="https:\\www.instagram.com\_kkbwk" target="_blank" style="text-decoration: none; color: black">Noprizal - 2022</a>
     </div>
 
     <script src="./js/bootstrap.js"></script>
