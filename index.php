@@ -57,7 +57,7 @@ if(isset($_POST['submit'])){
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Bootstrap demo</title>
+    <title>Aplikasi Input Data Penduduk</title>
     <link href="./css/bootstrap.css" rel="stylesheet" />
     <style>
       @media screen and (max-width: 440px) {
