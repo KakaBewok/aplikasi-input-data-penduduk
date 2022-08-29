@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "Noprizal",
+        "nik": "3201135790864313",
+        "jk": "Laki-laki",
+        "alamat": "Kabupaten Bogor, Megamendung",
+        "hp": "085156497401",
+        "email": "noprizal@unida.ac.id"
+    },
+    {
+        "nama": "Hikmatun Nazilah",
+        "nik": "3201135789028127",
+        "jk": "Perempuan",
+        "alamat": "Kabupaten Bogor, Ciomas",
+        "hp": "083838383838",
+        "email": "hnazilah@gmail.com"
+    },
+    {
+        "nama": "Muhammad Yudis",
+        "nik": "3201135789028127",
+        "jk": "Laki-laki",
+        "alamat": "Kota Jakarta, Cilincing",
+        "hp": "088882727234",
+        "email": "myudis@unida.ac.id"
+    }
+]
